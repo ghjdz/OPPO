@@ -331,114 +331,14 @@
       "ext": "http://w.g9.pub:66/f/o2ORIv/TVB.json"
     },
     {
-      "key": "影探",
+      "key": "探探",
       "name": "🍄探探┃直连",
       "type": 3,
-      "api": "csp_AppYsV2",
+      "playerType": "1",
       "api": "csp_YT",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
-    },
-    {
-      "key": "csp_Bttoo",
-      "name": "🐨Btto┃影视",
-      "type": 3,
-      "api": "csp_Bttwoo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_Lib",
-      "name": "🐨Lib  ┃影视",
-      "type": 3,
-      "api": "csp_Libvio",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "playerType": 2,
-      "ext": "https://tv.libvio.cc"
-    },
-    {
-      "key": "鸭鸭",
-      "name": "🐨鸭鸭┃影视",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yayayaaapp.ynf.icu/api.php/app/"
-    },
-    {
-      "key":"速映影视",
-      "name": "🐨速映┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext":"http://w.g9.pub:66/f/pYzYFA/suying.json"
-    },
-    {
-      "key":"笑笑影视",
-      "name": "🐨笑笑┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext":"http://w.g9.pub:66/f/qx2jIX/xiaoxiao.json"
-    },
-    {
-      "key":"蘑菇影视",
-      "name": "🐨蘑菇┃影视",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext":"http://www.gvideo.me/api.php/app/"
-    },
-    {
-      "key": "1080蓝光",
-      "name": "🐨蓝光┃影视",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable":1,
-      "ext": "https://1080dyw.com/icciu_api.php/v1.vod"
-    },
-    {
-      "key":"圣城影视",
-      "name": "🐨圣城┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext":"http://w.g9.pub:66/f/rkYRh2/sc1080.json"
-    },
-    {
-      "key":"明帝影视",
-      "name": "🐨明帝┃影视",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext":"https://ys.md214.cn/api.php/app/"
-    },
-    {
-      "key": "无心影视",
-      "name": "🐨无心┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-          "分类":"电影$1#剧集$2#动漫$4#动画片$20#综艺$3#短剧$29",
-          "分类url": "https://www.57movie.cn/vod/show/area/{area}/id/{cateId}/page/{catePg}/"
-          }
     },
     {
       "key": "迪迪",
@@ -559,6 +459,106 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
+    },
+    {
+      "key": "csp_Bttoo",
+      "name": "🐨Btto┃影视",
+      "type": 3,
+      "api": "csp_Bttwoo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_Lib",
+      "name": "🐨Lib  ┃影视",
+      "type": 3,
+      "api": "csp_Libvio",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "playerType": 2,
+      "ext": "https://tv.libvio.cc"
+    },
+    {
+      "key": "鸭鸭",
+      "name": "🐨鸭鸭┃影视",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yayayaaapp.ynf.icu/api.php/app/"
+    },
+    {
+      "key":"速映影视",
+      "name": "🐨速映┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext":"http://w.g9.pub:66/f/pYzYFA/suying.json"
+    },
+    {
+      "key":"笑笑影视",
+      "name": "🐨笑笑┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext":"http://w.g9.pub:66/f/qx2jIX/xiaoxiao.json"
+    },
+    {
+      "key":"蘑菇影视",
+      "name": "🐨蘑菇┃影视",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext":"http://www.gvideo.me/api.php/app/"
+    },
+    {
+      "key": "1080蓝光",
+      "name": "🐨蓝光┃影视",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable":1,
+      "ext": "https://1080dyw.com/icciu_api.php/v1.vod"
+    },
+    {
+      "key":"圣城影视",
+      "name": "🐨圣城┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext":"http://w.g9.pub:66/f/rkYRh2/sc1080.json"
+    },
+    {
+      "key":"明帝影视",
+      "name": "🐨明帝┃影视",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext":"https://ys.md214.cn/api.php/app/"
+    },
+    {
+      "key": "无心影视",
+      "name": "🐨无心┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+          "分类":"电影$1#剧集$2#动漫$4#动画片$20#综艺$3#短剧$29",
+          "分类url": "https://www.57movie.cn/vod/show/area/{area}/id/{cateId}/page/{catePg}/"
+          }
     },
     {
       "key": "龟龟",
