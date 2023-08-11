@@ -6,8 +6,8 @@
       "key": "js豆豆",
       "name": "🐼️豆瓣┃推荐",
       "type": 3,
-      "api":"https://gitee.com/ghjdz/tvbox/raw/master/OPPO/lib/drpy1.min.js",
-      "ext":"http://w.g9.pub:66/f/5yLDc6/drpy.js",
+      "api":"http://xhww.fun:63/js/drpy1.min.js",
+      "ext":"http://smallmi.xiaohewanwan.love:63/drpy.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
@@ -81,7 +81,21 @@
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "http://w.g9.pub:66/f/J6PnsK/bilibili.json"
+      "ext": "http://饭太硬.top/tv/bilibili.json"
+    },
+    {
+      "key": "csp_Biliych",
+      "name": "🅱哔哔┃演唱会",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "http://饭太硬.top/tv/biliych.json"
     },
     {
       "key": "woggphp",
