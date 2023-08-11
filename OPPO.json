@@ -341,6 +341,26 @@
       "changeable": 1
     },
     {
+      "key": "酷影",
+      "name": "😎泰泰┃APP",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "jar": "http://w.g9.pub:66/f/9rgVc2/2.jar;md5;6e12873c628020196fe9400d1ef51f1c",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
+    },
+    {
+      "key": "酷酷",
+      "name": "😎酷酷┃App",
+      "type": 3,
+      "api": "csp_Kuying",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
       "key": "迪迪",
       "name": "😎迪迪┃App",
       "api": "csp_AppYsV2",
@@ -439,26 +459,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://www.gvideo.me/api.php/app/"
-    },
-    {
-      "key": "酷影",
-      "name": "😎泰泰┃APP",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "jar": "http://w.g9.pub:66/f/9rgVc2/2.jar;md5;6e12873c628020196fe9400d1ef51f1c",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
-    },
-    {
-      "key": "酷酷",
-      "name": "😎酷酷┃App",
-      "type": 3,
-      "api": "csp_Kuying",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
     },
     {
       "key": "csp_Bttoo",
