@@ -98,33 +98,6 @@
       "ext": "http://饭太硬.top/tv/biliych.json"
     },
     {
-      "key": "woggphp",
-      "name": "👽wogg┃T4",
-      "type": 4,
-      "api": "http://home.jundie.top:9520/spider/csp_Wogg",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "T4_玩偶",
-      "name": "👽玩偶┃T4",
-      "type": 4,
-      "api": "http://120.53.102.254/t4/t4ali",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "ali_cli",
-      "name": "👽阿里┃聚搜",
-      "type": 4,
-      "api": "http://home.jundie.top:9520/ali/cli_Ali",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "csp_WoGG",
       "name": "👽玩偶哥哥┃4K",
       "type": 3,
@@ -583,6 +556,18 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://lg.tvcms.top/api.php/app/"
+    },
+    {
+        "key": "么云云",
+        "name": "📽️咪咪┃BPQ",
+        "type": 4,
+        "jar": "http://w.g9.pub:66/f/9rgVc2/2.jar;md5;6e12873c628020196fe9400d1ef51f1c",
+        "api": "https://test.dovx.tk/csp/jianpian",
+        "playerType": 1,
+        "searchable": 1,
+        "filterable": 1,
+        "quickSearch": 0,
+        "changeable": 0
     },
     {
       "key": "龟龟",
