@@ -1,5 +1,5 @@
 {
-  "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;5b2f704da69aa9910a5246018d7baa6d",
+  "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
@@ -50,16 +50,14 @@
       "changeable": 0
     },
     {
-      "key": "csp_SP33",
+      "key": "360",
       "name": "🌟360影视┃(官)",
       "type": 3,
-      "api": "csp_SP33",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0
+      "api": "csp_XBPQ",
+      "jar": "http://xhww.fun:63/小米/2.jar;md5;6e12873c628020196fe9400d1ef51f1c",
+      "ext": "http://xhww.fun:63/小米/源/360.json"
     },
-     {
+    {
       "key":"py_cctv",
       "name": "🌟CCTV┃(官)",
       "type": 3,
@@ -318,6 +316,15 @@
       "ext": "http://w.g9.pub:66/f/o2ORIv/TVB.json"
     },
     {
+      "key": "csp_Auete",
+      "name": "🍄奥特┃直连",
+      "type": 3,
+      "api": "csp_Auete",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
       "key": "探探",
       "name": "🍄探探┃直连",
       "type": 3,
@@ -546,16 +553,6 @@
           "分类":"电影$1#剧集$2#动漫$4#动画片$20#综艺$3#短剧$29",
           "分类url": "https://www.57movie.cn/vod/show/area/{area}/id/{cateId}/page/{catePg}/"
           }
-    },
-    {
-      "key": "小艺",
-      "name": "🐨小艺┃影视",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://lg.tvcms.top/api.php/app/"
     },
     {
         "key": "么云云",
@@ -839,16 +836,6 @@
           }
     },
     {
-      "key": "两个BT",
-      "name": "📽️BT┃BPQ",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-          "分类":"最新电影$new-movie#国产剧$zgjun#美剧$meiju#日韩剧$jpsrtv",
-          "分类url": "https://www.bttwo.net/{cateId}/page/{catePg}"
-          }
-    },
-    {
       "key": "金曼影视",
       "name": "📽️金曼┃BPQ",
       "type": 3,
@@ -952,6 +939,15 @@
         "filterable": 1,
         "quickSearch": 0,
         "changeable": 0
+    },
+    {
+      "key": "耐看",
+      "name": "📽️耐看┃BPQ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "http://xhww.fun:63/小米/2.jar;md5;6e12873c628020196fe9400d1ef51f1c",
+      "playerType": "1",
+      "ext": "http://xhww.fun:63/小米/源/来看.json"
     },
     {
       "key": "csp_xpath_yinfans",
