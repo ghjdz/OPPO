@@ -957,6 +957,18 @@
       }
     },
     {
+        "key": "么云云",
+        "name": "📽️咪咪┃BPQ",
+        "type": 4,
+        "jar": "http://w.g9.pub:66/f/9rgVc2/2.jar;md5;6e12873c628020196fe9400d1ef51f1c",
+        "api": "https://test.dovx.tk/csp/jianpian",
+        "playerType": 1,
+        "searchable": 1,
+        "filterable": 1,
+        "quickSearch": 0,
+        "changeable": 0
+    },
+    {
       "key": "csp_xpath_yinfans",
       "name": "🧲范范┃磁力",
       "type": 3,
