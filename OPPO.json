@@ -1,5 +1,5 @@
 {
-  "spider": "https://gitee.com/ghjdz/tvbox/raw/master/OPPO/lib/oppo.jar;md5;c548a4b3ea3f603ca651b802c52816a8",
+  "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;b3a5a49c793dd82c3fd04e75d3071b2",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
@@ -60,11 +60,12 @@
       "key":"py_cctv",
       "name": "🌟CCTV┃(官)",
       "type": 3,
-      "api":"py_cctv",
+      "jar": "https://gitee.com/zalman2022/mytv/raw/master/file/MySpiderBeta.jar",
+      "api":"csp_CCTV",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://gitee.com/ghjdz/tvbox/raw/master/OPPO/lib/py_cctv.py"
+      "ext": "https://gitee.com/zalman2022/mytv/raw/master/file/cctv.json"
     },
     {
       "key": "csp_Bili",
@@ -305,6 +306,48 @@
       "ext": "https://www.libvio.fun/"
     },
     {
+      "key": "贱贱",
+      "name": "🍄贱贱┃直连",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "playerType": "1",
+      "api": "https://gitee.com/ghjdz/tvbox/raw/master/OPPO/lib/drpy1.min.js",
+      "ext": "https://gitee.com/ghjdz/tvbox/raw/master/OPPO/lib/jp.js"
+    },
+    {
+      "key": "Vofl",
+      "name": "🍄VOF┃直连",
+      "type": 3,
+      "api": "csp_Voflix",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "探探",
+      "name": "😎探探┃App",
+      "type": 3,
+      "playerType": "1",
+      "api": "csp_YTVIP",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "http://smallmi.xiaohewanwan.love:63/cili/fan.txt"
+    },
+    {
+      "key": "酷影",
+      "name": "😎泰泰┃APP",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "jar": "https://gitee.com/ghjdz/tvbox/raw/master/OPPO/lib/5.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
+    },
+    {
       "key": "csp_Czsapp",
       "name": "😎厂长┃APP",
       "type": 3,
@@ -314,17 +357,6 @@
       "quickSearch": 1,
       "ext": "https://cz01.me/",
       "filterable": 1
-    },
-    {
-      "key": "酷影",
-      "name": "😎泰泰┃APP",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "jar": "https://gitee.com/ghjdz/tvbox/raw/master/OPPO/lib/广播迷.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
     },
     {
       "key": "迪迪",
@@ -371,7 +403,7 @@
       "name": "😎落落┃APP",
       "type": 3,
       "api": "csp_AppYs",
-      "jar": "https://gitee.com/ghjdz/tvbox/raw/master/OPPO/lib/广播迷.jar",
+      "jar": "https://gitee.com/ghjdz/tvbox/raw/master/OPPO/lib/5.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -382,7 +414,7 @@
       "name": "😎稻香┃APP",
       "type": 3,
       "api": "csp_AppYs",
-      "jar": "https://gitee.com/ghjdz/tvbox/raw/master/OPPO/lib/广播迷.jar",
+      "jar": "https://gitee.com/ghjdz/tvbox/raw/master/OPPO/lib/5.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -393,7 +425,7 @@
       "name": "️😎八千┃APP",
       "type": 3,
       "api": "csp_AppYsV2",
-      "jar": "https://gitee.com/ghjdz/tvbox/raw/master/OPPO/lib/广播迷.jar",
+      "jar": "https://gitee.com/ghjdz/tvbox/raw/master/OPPO/lib/5.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -404,11 +436,21 @@
       "name": "️😎蘑菇┃APP",
       "type": 3,
       "api": "csp_AppYs",
-      "jar": "https://gitee.com/ghjdz/tvbox/raw/master/OPPO/lib/广播迷.jar",
+      "jar": "https://gitee.com/ghjdz/tvbox/raw/master/OPPO/lib/5.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://www.moguys.xyz/api.php/app/"
+    },
+    {
+      "key": "哈喽",
+      "name": "😎哈喽┃App",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "http://guan.yy365.vip/api.php/app/"
     },
     {
       "key": "鸭鸭",
@@ -605,7 +647,7 @@
       "name": "📽️双黄┃BPQ",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://gitee.com/ghjdz/tvbox/raw/master/OPPO/lib/广播迷.jar",
+      "jar": "https://gitee.com/ghjdz/tvbox/raw/master/OPPO/lib/5.jar",
       "ext": {
         "嗅探词": "v3-dy-o.zjcdn#.m3u8#uc.cn",
         "过滤词": "daina.hk",
@@ -623,7 +665,7 @@
       "name": "📽️土豪┃BPQ",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://gitee.com/ghjdz/tvbox/raw/master/OPPO/lib/广播迷.jar",
+      "jar": "https://gitee.com/ghjdz/tvbox/raw/master/OPPO/lib/5.jar",
       "ext": {
         "分类url": "https://tuhao.tv/vsh/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
         "分类": "电影$1#剧集$2#动漫$4#综艺$4",
@@ -703,7 +745,7 @@
       "key": "兔兔",
       "name": "📽️兔兔┃BPQ",
       "type": 3,
-      "jar": "https://gitee.com/ghjdz/tvbox/raw/master/OPPO/lib/广播迷.jar",
+      "jar": "https://gitee.com/ghjdz/tvbox/raw/master/OPPO/lib/5.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -742,7 +784,7 @@
       "key": "速搜",
       "name": "📽️速搜┃BPQ",
       "type": 3,
-      "jar": "https://gitee.com/ghjdz/tvbox/raw/master/OPPO/lib/广播迷.jar",
+      "jar": "https://gitee.com/ghjdz/tvbox/raw/master/OPPO/lib/5.jar",
       "api": "csp_XBPQ",
       "playerType": "1",
       "ext": "https://gitee.com/ghjdz/tvbox/raw/master/OPPO/lib/%E9%80%9F%E6%90%9C.json"
@@ -751,7 +793,7 @@
       "key": "热播库",
       "name": "📽️热播┃BPQ",
       "type": 3,
-      "jar": "https://gitee.com/ghjdz/tvbox/raw/master/OPPO/lib/广播迷.jar",
+      "jar": "https://gitee.com/ghjdz/tvbox/raw/master/OPPO/lib/5.jar",
       "api": "csp_XBPQ",
       "playerType": "1",
       "ext": "https://gitee.com/ghjdz/tvbox/raw/master/OPPO/lib/%E7%83%AD%E6%92%AD.json"
@@ -781,7 +823,7 @@
       "name": "📽️星辰┃BPQ",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://gitee.com/ghjdz/tvbox/raw/master/OPPO/lib/广播迷.jar",
+      "jar": "https://gitee.com/ghjdz/tvbox/raw/master/OPPO/lib/5.jar",
       "playerType": "1",
       "ext": "https://gitee.com/ghjdz/tvbox/raw/master/OPPO/lib/%E6%98%9F%E8%BE%B0.json"
     },
@@ -797,7 +839,7 @@
       "key": "串串",
       "name": "📽️串串┃️BPQ",
       "type": 3,
-      "jar": "https://gitee.com/ghjdz/tvbox/raw/master/OPPO/lib/广播迷.jar",
+      "jar": "https://gitee.com/ghjdz/tvbox/raw/master/OPPO/lib/5.jar",
       "api": "csp_XBPQ",
       "ext": {
         "请求头": "手机#Referer$http://bczhuiju.com/",
@@ -822,7 +864,7 @@
       "key": "看看",
       "name": "📽️看看┃BPQ",
       "type": 3,
-      "jar": "https://gitee.com/ghjdz/tvbox/raw/master/OPPO/lib/广播迷.jar",
+      "jar": "https://gitee.com/ghjdz/tvbox/raw/master/OPPO/lib/5.jar",
       "playerType": "1",
       "changeable": 0,
       "api": "csp_XBPQ",
