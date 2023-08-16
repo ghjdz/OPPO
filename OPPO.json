@@ -453,6 +453,16 @@
       "ext": "http://guan.yy365.vip/api.php/app/"
     },
     {
+      "key": "南瓜",
+      "name": "😎南瓜┃APP",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "api": "https://gitee.com/ghjdz/tvbox/raw/master/OPPO/lib/drpy2.min.js",
+      "ext": "https://gitee.com/ghjdz/tvbox/raw/master/OPPO/lib/南瓜.js",
+      "changeable": 0
+    },
+    {
       "key": "鸭鸭",
       "name": "🐨鸭鸭┃影视",
       "type": 3,
