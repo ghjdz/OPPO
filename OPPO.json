@@ -1,5 +1,5 @@
 {
-  "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;b3a5a49c793dd82c3fd04e75d3071b2",
+  "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;b3a5a49c793dd82c3fd04e75d3071b20",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
@@ -175,7 +175,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto",
-      "jar": "https://gitee.com/ghjdz/tvbox/raw/master/OPPO/lib/xyq802.jar;md5;8b4d7815240224e910848d075a884058"
+      "jar": "https://gitee.com/ghjdz/tvbox/raw/master/OPPO/lib/XYQ.jar;md5;f86699b3d256291716d8b31114f49a8e"
     },
     {
       "key": "csp_AliPS",
@@ -187,7 +187,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto",
-      "jar": "https://gitee.com/ghjdz/tvbox/raw/master/OPPO/lib/xyq802.jar;md5;8b4d7815240224e910848d075a884058"
+      "jar": "https://gitee.com/ghjdz/tvbox/raw/master/OPPO/lib/XYQ.jar;md5;f86699b3d256291716d8b31114f49a8e"
     },
     {
       "key": "csp_XYQHikerAL_我的小站",
@@ -199,7 +199,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://gitee.com/ghjdz/tvbox/raw/master/OPPO/lib/%E6%88%91%E7%9A%84%E5%B0%8F%E7%AB%99.json",
-      "jar": "https://gitee.com/ghjdz/tvbox/raw/master/OPPO/lib/xyq802.jar;md5;8b4d7815240224e910848d075a884058"
+      "jar": "https://gitee.com/ghjdz/tvbox/raw/master/OPPO/lib/XYQ.jar;md5;f86699b3d256291716d8b31114f49a8e"
     },
     {
       "key": "csp_XYQHikerAL_阿里云盘网",
@@ -211,7 +211,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://gitee.com/ghjdz/tvbox/raw/master/OPPO/lib/%E9%98%BF%E9%87%8C%E4%BA%91%E7%9B%98%E7%BD%91.json",
-      "jar": "https://gitee.com/ghjdz/tvbox/raw/master/OPPO/lib/xyq802.jar;md5;8b4d7815240224e910848d075a884058"
+      "jar": "https://gitee.com/ghjdz/tvbox/raw/master/OPPO/lib/XYQ.jar;md5;f86699b3d256291716d8b31114f49a8e"
     },
     {
       "key": "csp_XYQHikerAL_橘子盘搜",
@@ -223,7 +223,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://gitee.com/ghjdz/tvbox/raw/master/OPPO/lib/%E6%A9%98%E5%AD%90%E7%9B%98%E6%90%9C.json",
-      "jar": "https://gitee.com/ghjdz/tvbox/raw/master/OPPO/lib/xyq802.jar;md5;8b4d7815240224e910848d075a884058"
+      "jar": "https://gitee.com/ghjdz/tvbox/raw/master/OPPO/lib/XYQ.jar;md5;f86699b3d256291716d8b31114f49a8e"
     },
     {
       "key": "csp_XYQHiker_DOVX搜索",
@@ -235,7 +235,31 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://gitee.com/ghjdz/tvbox/raw/master/OPPO/lib/DOVX%E6%90%9C%E7%B4%A2.json",
-      "jar": "https://gitee.com/ghjdz/tvbox/raw/master/OPPO/lib/xyq802.jar;md5;8b4d7815240224e910848d075a884058"
+      "jar": "https://gitee.com/ghjdz/tvbox/raw/master/OPPO/lib/XYQ.jar;md5;f86699b3d256291716d8b31114f49a8e"
+    },
+    {
+      "key": "csp_XYQHikerAL_云盘资源",
+      "name": "👽云盘资源┃搜索",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/ghjdz/tvbox/raw/master/OPPO/lib/%E4%BA%91%E7%9B%98%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB.json",
+      "jar": "https://gitee.com/ghjdz/tvbox/raw/master/OPPO/lib/XYQ.jar;md5;f86699b3d256291716d8b31114f49a8e"
+    },
+    {
+      "key": "csp_XYQHiker_土拨鼠搜索",
+      "name": "👽土拨鼠┃搜索",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/ghjdz/tvbox/raw/master/OPPO/lib/%E5%9C%9F%E6%8B%A8%E9%BC%A0%E6%90%9C%E7%B4%A2.json",
+      "jar": "https://gitee.com/ghjdz/tvbox/raw/master/OPPO/lib/XYQ.jar;md5;f86699b3d256291716d8b31114f49a8e"
     },
     {
       "key": "csp_DiDuan",
@@ -286,16 +310,6 @@
       "changeable": 1
     },
     {
-      "key": "csp_Ysgc",
-      "name": "🍄影视┃直连",
-      "type": 3,
-      "api": "csp_Ysgc",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.ysgc.fun"
-    },
-    {
       "key": "csp_Lib",
       "name": "🍄利播┃直连",
       "type": 3,
@@ -324,6 +338,41 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
+    },
+    {
+      "key": "奇奇",
+      "name": "🍄奇奇┃直连",
+      "type": 1,
+      "api": "http://www.csykkj.club/api.php/provide/vod/from/qiqi",
+      "playUrl": "json:http://lgg.llwwwll.com:5477/home/api?type=ys&uid=387611&key=ahnrvxyzCDGJKPY137&url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": [
+        "电影",
+        "连续剧",
+        "综艺",
+        "动漫"
+      ]
+    },
+    {
+      "key": "csp_Ysgc",
+      "name": "🍄工场┃直连",
+      "type": 3,
+      "api": "csp_Ysgc",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.ysgc1.cc/"
+    },
+    {
+      "key": "csp_Nmys",
+      "name": "🍄农民┃直连",
+      "type": 3,
+      "api": "csp_Nmys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "http://饭太硬.top/x/json/nmys.json"
     },
     {
       "key": "探探",
@@ -441,6 +490,15 @@
       "changeable": 0
     },
     {
+      "key": "kuaikan",
+      "name": "😎快看┃App",
+      "type": 3,
+      "api": "csp_Kuaikan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
       "key": "鸭鸭",
       "name": "🐨鸭鸭┃影视",
       "type": 3,
@@ -508,8 +566,8 @@
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
-      "ext": "https://gitee.com/ghjdz/tvbox/raw/master/OPPO/lib/%E4%B9%90%E7%8C%AA.json",
-      "jar": "https://gitee.com/ghjdz/tvbox/raw/master/OPPO/lib/xyq802.jar;md5;8b4d7815240224e910848d075a884058"
+      "ext": "https://gitee.com/ghjdz/tvbox/raw/master/OPPO/lib/%E4%B9%90%E7%8C%AATV.json",
+      "jar": "https://gitee.com/ghjdz/tvbox/raw/master/OPPO/lib/XYQ.jar;md5;f86699b3d256291716d8b31114f49a8e"
     },
     {
       "key": "龟龟",
