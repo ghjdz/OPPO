@@ -579,13 +579,14 @@
       "ext":"https://gitee.com/ghjdz/tvbox/raw/master/OPPO/lib/suying.json"
     },
     {
-      "key":"圣城影视",
+      "key":"csp_圣城",
       "name": "📽️圣城┃BPQ",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
+      "jar": "http://xhww.fun:63/小米/5.jar;md5;c570b052645834a1109b54421c1552f9",
       "ext":"https://gitee.com/ghjdz/tvbox/raw/master/OPPO/lib/sc1080.json"
     },
     {
@@ -856,13 +857,24 @@
       "ext": "http://xhww.fun:63/小米/源/热播.json"
     },
     {
-      "key": "小鹿",
+      "key": "csp_小鹿",
       "name": "📽️小鹿┃BPQ",
       "type": 3,
+      "jar": "http://xhww.fun:63/小米/5.jar;md5;c570b052645834a1109b54421c1552f9",
       "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
       "ext": {
-          "分类":"电影$1#电视剧$31#综艺$3#动漫$4",
-          "分类url": "http://www.xiaoluys.me/vodshow/{cateId}-{area}-{by}------{catePg}---{year}.html"
+          "站名": "小鹿影视",
+          "主页url": "http://www.xiaoluys.me/",
+          "简介": "<p&&</p>",
+          "影片状态": "备注：&&</div>",
+          "影片类型": "module-info-tag\">&&立即播放",
+          "线路数组": "data-dropdown-value=&&</div>",
+          "线路标题": "<span>&&</small>[替换:</span><small>>>线路共]+集",
+          "分类url": "http://www.xiaoluys.me/vodshow/{cateId}-{area}-{by}------{catePg}---{year}.html;;ak",
+          "分类": "电影$1#电视剧$31#综艺$3#动漫$4"
           }
     },
     {
@@ -1195,6 +1207,79 @@
       "jar": "http://xhww.fun:63/小米/5.jar;md5;c570b052645834a1109b54421c1552f9",
       "api": "csp_XBPQ",
       "ext": "http://xhww.fun:63/小米/源/利播.json"
+    },
+    {
+      "key": "深蓝影视",
+      "name": "📽️深蓝┃BPQ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "首页":"站长推荐",
+        "数组":"class=\"myui-vodlist__thumb&&</a>",
+        "图片":"url(&&);\"",
+        "标题":"title=\"&&\"",
+        "链接":"href=\"&&\"",
+        "副标题":"class=\"pic-text text-right\">&&</span>",
+        "播放数组":"class=\"myui-content__list sort-list&&</ul>",
+        "分类":"电影&国剧&美剧&日剧&韩剧&泰剧&国漫&日漫&漫影&综艺&站长推荐",
+        "分类值":"1&39&45&42&43&44&27&28&26&4&78",
+        "分类url":"http://www.jooke.cc/list/?{cateId}-{catePg}.html" 
+      }
+    },
+    {
+      "key": "csp_花猫",
+      "name": "📽️花猫┃BPQ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "http://xhww.fun:63/小米/5.jar;md5;c570b052645834a1109b54421c1552f9",
+      "ext": "https://gitee.com/ghjdz/tvbox/raw/master/OPPO/lib/%E8%8A%B1%E7%8C%AB%E5%BD%B1%E8%A7%86.json"
+    },
+    {
+      "key": "csp_兔瓜",
+      "name": "📽️兔瓜┃BPQ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "http://xhww.fun:63/小米/5.jar;md5;c570b052645834a1109b54421c1552f9",
+      "ext": "https://gitee.com/ghjdz/tvbox/raw/master/OPPO/lib/%E5%85%94%E5%85%94%E7%93%9C.json"
+    },
+    {
+      "key": "csp_达龟",
+      "name": "📽️达龟┃BPQ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "http://xhww.fun:63/小米/5.jar;md5;c570b052645834a1109b54421c1552f9",
+      "ext": "https://gitee.com/ghjdz/tvbox/raw/master/OPPO/lib/%E8%BE%BE%E8%BE%BE%E9%BE%9F%E5%BD%B1%E8%A7%86.json"
+    },
+    {
+      "key": "csp_101",
+      "name": "📽️摇玲┃BPQ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "http://xhww.fun:63/小米/5.jar;md5;c570b052645834a1109b54421c1552f9",
+      "ext": "https://gitee.com/ghjdz/tvbox/raw/master/OPPO/lib/101%E5%BD%B1%E8%A7%86.json"
+    },
+    {
+      "key": "csp_量子",
+      "name": "📽️量子┃BPQ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "http://xhww.fun:63/小米/5.jar;md5;c570b052645834a1109b54421c1552f9",
+      "ext": "https://gitee.com/ghjdz/tvbox/raw/master/OPPO/lib/%E9%87%8F%E5%AD%90%E8%B5%84%E6%BA%90%E7%BD%91.json"
     },
     {
       "key": "dr_兔小贝",
