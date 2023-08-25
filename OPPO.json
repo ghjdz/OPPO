@@ -25,8 +25,8 @@
       "key": "优酷",
       "name": "🌟优酷┃(官)",
       "type": 3,
-      "api":"https://gitee.com/ghjdz/tvbox/raw/master/OPPO/lib/drpy1.min.js",
-      "ext":"https://gitee.com/ghjdz/tvbox/raw/master/OPPO/lib/youku.js"
+      "api":"./drpy1.min.js",
+      "ext":"./youku.js"
     },
     {
       "key": "Qtv",
