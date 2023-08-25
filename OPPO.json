@@ -25,7 +25,7 @@
       "key": "优酷",
       "name": "🌟优酷┃(官)",
       "type": 3,
-      "api":"./drpy1.min.js",
+      "api":"./drpy2.min.js",
       "ext":"./youku.js"
     },
     {
