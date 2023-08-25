@@ -25,8 +25,8 @@
       "key": "优酷",
       "name": "🌟优酷┃(官)",
       "type": 3,
-      "api":"./drpy2.min.js",
-      "ext":"./youku.js"
+      "api":"https://github.com/https://raw.githubusercontent.com/ghjdz/OPPO/main/drpy2.min.js",
+      "ext":"https://github.com/https://raw.githubusercontent.com/ghjdz/OPPO/main/youku.js"
     },
     {
       "key": "Qtv",
