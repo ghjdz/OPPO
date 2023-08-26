@@ -1,5 +1,5 @@
 {
-  "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;c80207edebbe5019a688fd2eb653e005",
+  "spider": "http://jukemf.com/tvbox/oppo/lib/oppo.jar;md5;bf1f28d65240042a470d4f80035e529f",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
@@ -22,12 +22,14 @@
       "changeable": 0
     },
     {
-      "key": "drpy_js_优酷",
+      "key": "YTV",
       "name": "🌟优酷┃(官)",
       "type": 3,
-      "jar":"http://jukemf.com/tvbox/oppo/lib/spider.jar",
-      "api":"https://raw.githubusercontent.com/ghjdz/OPPO/main/drpy2.min.js",
-      "ext":"https://raw.githubusercontent.com/ghjdz/OPPO/main/youku.js"
+      "jar": "http://jukemf.com/tvbox/oppo/lib/you.jar",
+      "api": "csp_YOUKU",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 0
     },
     {
       "key": "Qtv",
@@ -63,12 +65,12 @@
       "key":"py_cctv",
       "name": "🌟CCTV┃(官)",
       "type": 3,
-      "jar": "https://gitee.com/zalman2022/mytv/raw/master/file/MySpiderBeta.jar",
+      "jar": "http://jukemf.com/tvbox/oppo/lib/you.jar",
       "api":"csp_CCTV",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://gitee.com/zalman2022/mytv/raw/master/file/cctv.json"
+      "ext": "https://jukemf.com/tvbox/oppo/lib/cctv.json"
     },
     {
       "key": "csp_Bili",
@@ -82,7 +84,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "http://饭太硬.top/x/json/bilibili.json"
+      "ext": "https://jukemf.com/tvbox/oppo/lib/bilibili.json"
     },
     {
       "key": "csp_Biliych",
@@ -96,7 +98,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "http://饭太硬.top/x/json/biliych.json"
+      "ext": "https://jukemf.com/tvbox/oppo/lib/biliych.json"
     },
     {
       "key": "t4_wo",
@@ -106,7 +108,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt"
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto"
     },
     {
       "key": "csp_WoGG",
@@ -188,7 +190,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto",
-      "jar": "https://gitee.com/ghjdz/tvbox/raw/master/OPPO/lib/XYQ.jar;md5;043138513bc3e41ebec51665bb417ebc"
+      "jar": "https://jukemf.com/tvbox/oppo/lib/XYQ.jar;md5;24c0c47c8de22f3fa524f2a01b82d5d6"
     },
     {
       "key": "csp_XYQHiker_DOVX搜索",
@@ -199,8 +201,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/ghjdz/tvbox/raw/master/OPPO/lib/DOVX%E6%90%9C%E7%B4%A2.json",
-      "jar": "https://gitee.com/ghjdz/tvbox/raw/master/OPPO/lib/XYQ.jar;md5;043138513bc3e41ebec51665bb417ebc"
+      "ext": "https://jukemf.com/tvbox/oppo/lib/DOVX.json",
+      "jar": "https://jukemf.com/tvbox/oppo/lib/XYQ.jar;md5;24c0c47c8de22f3fa524f2a01b82d5d6"
     },
     {
       "key": "csp_XYQHiker_土拨鼠搜索",
@@ -211,8 +213,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/ghjdz/tvbox/raw/master/OPPO/lib/%E5%9C%9F%E6%8B%A8%E9%BC%A0%E6%90%9C%E7%B4%A2.json",
-      "jar": "https://gitee.com/ghjdz/tvbox/raw/master/OPPO/lib/XYQ.jar;md5;043138513bc3e41ebec51665bb417ebc"
+      "ext": "https://jukemf.com/tvbox/oppo/lib/tuboshu.json",
+      "jar": "https://jukemf.com/tvbox/oppo/lib/XYQ.jar;md5;24c0c47c8de22f3fa524f2a01b82d5d6"
     },
     {
       "key": "csp_XYQHikerAL_豆豆飞",
@@ -223,8 +225,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/ghjdz/tvbox/raw/master/OPPO/lib/%E8%B1%86%E8%B1%86%E9%A3%9E.json",
-      "jar": "https://gitee.com/ghjdz/tvbox/raw/master/OPPO/lib/XYQ.jar;md5;043138513bc3e41ebec51665bb417ebc"
+      "ext": "https://jukemf.com/tvbox/oppo/lib/doudoufei.json",
+      "jar": "https://jukemf.com/tvbox/oppo/lib/XYQ.jar;md5;24c0c47c8de22f3fa524f2a01b82d5d6"
     },
     {
       "key": "csp_AliPS",
@@ -236,7 +238,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto",
-      "jar": "https://gitee.com/ghjdz/tvbox/raw/master/OPPO/lib/XYQ.jar;md5;043138513bc3e41ebec51665bb417ebc"
+      "jar": "https://jukemf.com/tvbox/oppo/lib/XYQ.jar;md5;24c0c47c8de22f3fa524f2a01b82d5d6"
     },
     {
       "key": "csp_XYQHikerAL_我的小站",
@@ -247,8 +249,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/ghjdz/tvbox/raw/master/OPPO/lib/%E6%88%91%E7%9A%84%E5%B0%8F%E7%AB%99.json",
-      "jar": "https://gitee.com/ghjdz/tvbox/raw/master/OPPO/lib/XYQ.jar;md5;043138513bc3e41ebec51665bb417ebc"
+      "ext": "https://jukemf.com/tvbox/oppo/lib/wodexiaozhan.json",
+      "jar": "https://jukemf.com/tvbox/oppo/lib/XYQ.jar;md5;24c0c47c8de22f3fa524f2a01b82d5d6"
     },
     {
       "key": "csp_XYQHikerAL_阿里云盘网",
@@ -259,8 +261,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/ghjdz/tvbox/raw/master/OPPO/lib/%E9%98%BF%E9%87%8C%E4%BA%91%E7%9B%98%E7%BD%91.json",
-      "jar": "https://gitee.com/ghjdz/tvbox/raw/master/OPPO/lib/XYQ.jar;md5;043138513bc3e41ebec51665bb417ebc"
+      "ext": "https://jukemf.com/tvbox/oppo/lib/aliyunpan.json",
+      "jar": "https://jukemf.com/tvbox/oppo/lib/XYQ.jar;md5;24c0c47c8de22f3fa524f2a01b82d5d6"
     },
     {
       "key": "csp_XYQHikerAL_橘子盘搜",
@@ -271,8 +273,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/ghjdz/tvbox/raw/master/OPPO/lib/%E6%A9%98%E5%AD%90%E7%9B%98%E6%90%9C.json",
-      "jar": "https://gitee.com/ghjdz/tvbox/raw/master/OPPO/lib/XYQ.jar;md5;043138513bc3e41ebec51665bb417ebc"
+      "ext": "https://jukemf.com/tvbox/oppo/lib/juzipansou.json",
+      "jar": "https://jukemf.com/tvbox/oppo/lib/XYQ.jar;md5;24c0c47c8de22f3fa524f2a01b82d5d6"
     },
     {
       "key": "csp_XYQHikerAL_云盘资源",
@@ -283,8 +285,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/ghjdz/tvbox/raw/master/OPPO/lib/%E4%BA%91%E7%9B%98%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB.json",
-      "jar": "https://gitee.com/ghjdz/tvbox/raw/master/OPPO/lib/XYQ.jar;md5;043138513bc3e41ebec51665bb417ebc"
+      "ext": "https://jukemf.com/tvbox/oppo/lib/yunpanziyuan.json",
+      "jar": "https://jukemf.com/tvbox/oppo/lib/XYQ.jar;md5;24c0c47c8de22f3fa524f2a01b82d5d6"
     },
     {
       "key": "csp_DiDuan",
@@ -313,7 +315,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable":1,
-      "ext": "https://gitee.com/ghjdz/tvbox/raw/master/OPPO/lib/TVB.json"
+      "ext": "https://jukemf.com/tvbox/oppo/lib/TVB.json"
     },
     {
       "key": "csp_Auete",
@@ -359,11 +361,11 @@
       "key": "csp_Nmys",
       "name": "🍄农民┃直连",
       "type": 3,
-      "api": "csp_Nmys",
+      "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "http://饭太硬.top/x/json/nmys.json"
+      "ext": "https://jukemf.com/tvbox/oppo/lib/nongminyingshi.json"
     },
     {
       "key": "zxzj",
@@ -400,7 +402,7 @@
       "name": "😎泰泰┃APP",
       "type": 3,
       "api": "csp_AppYsV2",
-      "jar": "http://xhww.fun:63/小米/5.jar;md5;c570b052645834a1109b54421c1552f9",
+      "jar": "https://jukemf.com/tvbox/oppo/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -461,7 +463,7 @@
       "name": "😎辣辣┃APP",
       "type": 3,
       "api": "csp_AppYsV2",
-      "jar": "http://xhww.fun:63/小米/5.jar;md5;c570b052645834a1109b54421c1552f9",
+      "jar": "https://jukemf.com/tvbox/oppo/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -472,7 +474,7 @@
       "name": "😎落落┃APP",
       "type": 3,
       "api": "csp_AppYs",
-       "jar": "http://xhww.fun:63/小米/5.jar;md5;c570b052645834a1109b54421c1552f9",
+      "jar": "https://jukemf.com/tvbox/oppo/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -495,7 +497,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "api": "http://xhww.fun:63/js/drpy2.min.js",
-      "ext": "http://smallmi.xiaohewanwan.love:63/南瓜.js",
+      "ext": "https://jukemf.com/tvbox/oppo/lib/nangua.js",
       "changeable": 0
     },
     {
@@ -522,7 +524,7 @@
       "name": "️😎蚂蚁┃APP",
       "type": 3,
       "api": "csp_AppYsV2",
-      "jar": "http://xhww.fun:63/小米/5.jar;md5;c570b052645834a1109b54421c1552f9",
+      "jar": "https://jukemf.com/tvbox/oppo/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -533,7 +535,7 @@
       "name": "️😎蘑菇┃APP",
       "type": 3,
       "api": "csp_AppYs",
-      "jar": "http://xhww.fun:63/小米/5.jar;md5;c570b052645834a1109b54421c1552f9",
+      "jar": "https://jukemf.com/tvbox/oppo/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -547,7 +549,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "http://xhww.fun:63/小米/2.jar;md5;6e12873c628020196fe9400d1ef51f1c",
+      "jar": "https://jukemf.com/tvbox/oppo/lib/2.jar;md5;6e12873c628020196fe9400d1ef51f1c",
       "ext": "http://guan.yy365.vip/api.php/app/"
     },
     {
@@ -560,8 +562,28 @@
       "changeable": 1
     },
     {
+      "key": "迷你库",
+      "name": "😎迷你┃App",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://www.miniku.cc/xgapp.php/v1/"
+    },
+    {
+      "key":"明帝影视",
+      "name": "😎明帝┃App",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext":"https://ys.md214.cn/api.php/app/"
+    },
+    {
       "key": "鸭鸭",
-      "name": "📽️鸭鸭┃BPQ",
+      "name": "😎鸭鸭┃App",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -577,7 +599,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext":"https://gitee.com/ghjdz/tvbox/raw/master/OPPO/lib/suying.json"
+      "jar": "https://jukemf.com/tvbox/oppo/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
+      "ext":"https://jukemf.com/tvbox/oppo/lib/suyingyingshi.json"
     },
     {
       "key":"csp_圣城",
@@ -587,28 +610,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "http://xhww.fun:63/小米/5.jar;md5;c570b052645834a1109b54421c1552f9",
-      "ext":"https://gitee.com/ghjdz/tvbox/raw/master/OPPO/lib/sc1080.json"
-    },
-    {
-      "key":"明帝影视",
-      "name": "📽️明帝┃BPQ",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext":"https://ys.md214.cn/api.php/app/"
-    },
-    {
-      "key": "迷你库",
-      "name": "📽️迷你┃BPQ",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://www.miniku.cc/xgapp.php/v1/"
+      "jar":"https://jukemf.com/tvbox/oppo/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
+      "ext":"https://jukemf.com/tvbox/oppo/lib/shengchengyingshi.json"
     },
     {
       "key": "Lezhu",
@@ -618,14 +621,14 @@
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
-      "ext": "https://gitee.com/ghjdz/tvbox/raw/master/OPPO/lib/%E4%B9%90%E7%8C%AATV.json",
-      "jar": "https://gitee.com/ghjdz/tvbox/raw/master/OPPO/lib/XYQ.jar;md5;043138513bc3e41ebec51665bb417ebc"
+      "ext": "https://jukemf.com/tvbox/oppo/lib/lezhu.json",
+      "jar": "https://jukemf.com/tvbox/oppo/lib/XYQ.jar;md5;24c0c47c8de22f3fa524f2a01b82d5d6"
     },
     {
       "key": "龟龟",
       "name": "📽️龟龟┃BPQ",
       "type": 3,
-      "jar": "http://xhww.fun:63/小米/5.jar;md5;c570b052645834a1109b54421c1552f9",
+      "jar": "https://jukemf.com/tvbox/oppo/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
       "api": "csp_XBPQ",
       "playerType": "1",
       "ext": {
@@ -683,7 +686,7 @@
       "key": "莱米",
       "name": "📽️莱米┃BPQ",
       "type": 3,
-      "jar": "http://xhww.fun:63/小米/5.jar;md5;c570b052645834a1109b54421c1552f9",
+      "jar": "https://jukemf.com/tvbox/oppo/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
       "api": "csp_XBPQ",
       "playerType": "2",
       "ext": {
@@ -716,7 +719,7 @@
       "key": "双黄",
       "name": "📽️双黄┃BPQ",
       "type": 3,
-      "jar": "http://xhww.fun:63/小米/5.jar;md5;c570b052645834a1109b54421c1552f9",
+      "jar": "https://jukemf.com/tvbox/oppo/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
       "api": "csp_XBPQ",
       "ext": {
         "嗅探词": "v3-dy-o.zjcdn#.m3u8#",
@@ -733,7 +736,7 @@
       "key": "土豪",
       "name": "📽️土豪┃BPQ",
       "type": 3,
-      "jar": "http://xhww.fun:63/小米/5.jar;md5;c570b052645834a1109b54421c1552f9",
+      "jar": "https://jukemf.com/tvbox/oppo/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
       "api": "csp_XBPQ",
       "ext": {
         "分类url": "https://tuhao.tv/vsh/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html;;m",
@@ -790,7 +793,7 @@
       "key": "csp_XBPQ_JOJO",
       "name": "📽️JOJO┃BPQ",
       "type": 3,
-      "jar": "http://xhww.fun:63/小米/5.jar;md5;c570b052645834a1109b54421c1552f9",
+      "jar": "https://jukemf.com/tvbox/oppo/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
@@ -813,7 +816,7 @@
       "key": "兔兔",
       "name": "📽️兔兔┃BPQ",
       "type": 3,
-      "jar": "http://xhww.fun:63/小米/5.jar;md5;c570b052645834a1109b54421c1552f9",
+      "jar": "https://jukemf.com/tvbox/oppo/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -845,23 +848,25 @@
       "name": "📽️奇优┃BPQ",
       "type": 3,
       "api": "csp_XBPQ",
-      "playerType": "1",
-      "ext": "https://gitee.com/ghjdz/tvbox/raw/master/OPPO/lib/%E5%A5%87%E4%BC%98.json"
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jukemf.com/tvbox/oppo/lib/qiyouyingshi.json"
     },
     {
       "key": "热播库",
       "name": "📽️热播┃BPQ",
       "type": 3,
-      "jar": "http://xhww.fun:63/小米/5.jar;md5;c570b052645834a1109b54421c1552f9",
+      "jar": "https://jukemf.com/tvbox/oppo/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
       "api": "csp_XBPQ",
       "playerType": "1",
-      "ext": "http://xhww.fun:63/小米/源/热播.json"
+      "ext": "https://jukemf.com/tvbox/oppo/lib/rebo.json"
     },
     {
       "key": "csp_小鹿",
       "name": "📽️小鹿┃BPQ",
       "type": 3,
-      "jar": "http://xhww.fun:63/小米/5.jar;md5;c570b052645834a1109b54421c1552f9",
+      "jar": "https://jukemf.com/tvbox/oppo/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
@@ -894,9 +899,9 @@
       "type": 3,
       "api": "csp_XBPQ",
       "api": "csp_XBPQ",
-      "jar": "http://xhww.fun:63/小米/5.jar;md5;c570b052645834a1109b54421c1552f9",
+      "jar": "https://jukemf.com/tvbox/oppo/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
       "playerType": "1",
-      "ext": "http://xhww.fun:63/小米/源/星辰.json"
+      "ext": "https://jukemf.com/tvbox/oppo/lib/xingchen.json"
     },
     {
       "key": "石榴",
@@ -904,13 +909,13 @@
       "type": 3,
       "api": "csp_XBPQ",
       "playerType": "1",
-      "ext": "http://xhww.fun:63/小米/源/石榴.json"
+      "ext": "https://jukemf.com/tvbox/oppo/lib/shiliu.json"
     },
     {
       "key": "串串",
       "name": "📽️串串┃️BPQ",
       "type": 3,
-      "jar": "http://xhww.fun:63/小米/5.jar;md5;c570b052645834a1109b54421c1552f9",
+      "jar": "https://jukemf.com/tvbox/oppo/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
       "api": "csp_XBPQ",
       "ext": {
         "请求头": "手机#Referer$http://bczhuiju.com/",
@@ -935,7 +940,7 @@
       "key": "看看",
       "name": "📽️看看┃BPQ",
       "type": 3,
-      "jar": "http://xhww.fun:63/小米/5.jar;md5;c570b052645834a1109b54421c1552f9",
+      "jar": "https://jukemf.com/tvbox/oppo/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
       "playerType": "1",
       "changeable": 0,
       "api": "csp_XBPQ",
@@ -960,7 +965,7 @@
       "key": "csp_XBPQ_feifei",
       "name": "📽️飞飞┃BPQ",
       "type": 3,
-      "jar": "http://xhww.fun:63/小米/5.jar;md5;c570b052645834a1109b54421c1552f9",
+      "jar": "https://jukemf.com/tvbox/oppo/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "0",
@@ -984,7 +989,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "playerType": "1",
-      "jar": "http://xhww.fun:63/小米/5.jar;md5;c570b052645834a1109b54421c1552f9",
+      "jar": "https://jukemf.com/tvbox/oppo/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
       "api": "csp_XBPQ",
       "ext": {
         "站名": "黑狐影院",
@@ -1023,7 +1028,7 @@
       "key": "臭蛋",
       "name": "📽️臭蛋┃BPQ",
       "type": 3,
-      "jar": "http://xhww.fun:63/小米/5.jar;md5;c570b052645834a1109b54421c1552f9",
+      "jar": "https://jukemf.com/tvbox/oppo/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
       "api": "csp_XBPQ",
       "ext": {
         "主页url": "https://cddys.vip/",
@@ -1040,7 +1045,7 @@
       "key": "夜幕",
       "name": "️📽️夜夜┃BPQ",
       "type": 3,
-      "jar": "http://xhww.fun:63/小米/5.jar;md5;c570b052645834a1109b54421c1552f9",
+      "jar": "https://jukemf.com/tvbox/oppo/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
@@ -1075,25 +1080,38 @@
       "key": "零度",
       "name": "📽️零度┃BPQ",
       "type": 3,
-      "jar": "http://xhww.fun:63/小米/5.jar;md5;c570b052645834a1109b54421c1552f9",
+      "jar": "https://jukemf.com/tvbox/oppo/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
       "api": "csp_XBPQ",
       "playerType": "1",
-      "ext": "http://xhww.fun:63/小米/源/小刀.json"
+      "ext": "https://jukemf.com/tvbox/oppo/lib/xiaodao.json"
     },
     {
       "key": "耐看",
       "name": "📽️耐看┃BPQ",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "http://xhww.fun:63/小米/5.jar;md5;c570b052645834a1109b54421c1552f9",
+      "jar": "https://jukemf.com/tvbox/oppo/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
       "playerType": "1",
-      "ext": "http://xhww.fun:63/小米/源/来看.json"
+      "ext": {
+        "影片类型": "<div class=\"module-blocklist\">&&</div>",
+        "导演": "导演：&&</div>",
+        "主演": "主演：&&</div>",
+        "简介": "video-info-item video-info-content vod_content\">&&</span>",
+        "标题": "title=\"&&\"",
+        "链接": "href=\"&&\"",
+        "搜索图片": "http://xhww.fun:63/小米/4.jpeg",
+        "线路数组": "module-tab-item tab-item&&</div>",
+        "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
+        "请求头": "User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_0) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.56 Safari/535.11",
+        "分类": "动漫$4#国产剧$13#电视剧$2#电影$1#综艺$3",
+        "分类url": "https://www.nkvod.com/show/{cateId}--{by}}------{catePg}---{year}.html;;m"
+        }
     },
     {
       "key": "滋滋",
       "name": "📽️滋滋┃BPQ",
       "type": 3,
-      "jar": "http://xhww.fun:63/小米/5.jar;md5;c570b052645834a1109b54421c1552f9",
+      "jar": "https://jukemf.com/tvbox/oppo/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
       "api": "csp_XBPQ",
       "playerType": "1",
       "ext": {
@@ -1128,7 +1146,7 @@
       "type": 3,
       "api": "csp_XBPQ",
       "playerType": "1",
-      "jar": "http://xhww.fun:63/小米/5.jar;md5;c570b052645834a1109b54421c1552f9",
+      "jar": "https://jukemf.com/tvbox/oppo/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
       "ext": {
         "分类url": "https://www.freeok.vip/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;m",
         "分类": "电影&剧集&动漫&综艺",
@@ -1153,7 +1171,7 @@
       "type": 3,
       "api": "csp_XBPQ",
       "playerType": "1",
-      "jar": "http://xhww.fun:63/小米/5.jar;md5;c570b052645834a1109b54421c1552f9",
+      "jar": "https://jukemf.com/tvbox/oppo/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
       "ext": {
         "数组": "class=\"top&&</li",
         "嗅探词": ".m3u8#.mp4#download-cdn.123pan.cn",
@@ -1187,32 +1205,33 @@
       "key": "348",
       "name": "📽️348┃BPQ",
       "type": 3,
-      "jar": "http://xhww.fun:63/小米/5.jar;md5;c570b052645834a1109b54421c1552f9",
+      "jar": "https://jukemf.com/tvbox/oppo/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
       "api": "csp_XBPQ",
       "playerType": "1",
-      "ext": "http://xhww.fun:63/小米/源/348.json"
+      "ext": "https://jukemf.com/tvbox/oppo/lib/348.json"
     },
     {
       "key": "蘑菇",
       "name": "📽️蘑菇┃BPQ",
       "type": 3,
-      "jar": "http://xhww.fun:63/小米/5.jar;md5;c570b052645834a1109b54421c1552f9",
+      "jar": "https://jukemf.com/tvbox/oppo/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
       "api": "csp_XBPQ",
       "playerType": "1",
-      "ext": "http://xhww.fun:63/小米/源/蘑菇.json"
+      "ext": "https://jukemf.com/tvbox/oppo/lib/mogu.json"
     },
     {
       "key": "利播",
       "name": "📽️利播┃BPQ",
       "type": 3,
-      "jar": "http://xhww.fun:63/小米/5.jar;md5;c570b052645834a1109b54421c1552f9",
+      "jar": "https://jukemf.com/tvbox/oppo/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
       "api": "csp_XBPQ",
-      "ext": "http://xhww.fun:63/小米/源/利播.json"
+      "ext": "https://jukemf.com/tvbox/oppo/lib/libo.json"
     },
     {
       "key": "深蓝影视",
       "name": "📽️深蓝┃BPQ",
       "type": 3,
+      "jar": "https://jukemf.com/tvbox/oppo/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
       "api": "csp_XBPQ",
       "ext": {
         "首页":"站长推荐",
@@ -1235,8 +1254,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "http://xhww.fun:63/小米/5.jar;md5;c570b052645834a1109b54421c1552f9",
-      "ext": "https://gitee.com/ghjdz/tvbox/raw/master/OPPO/lib/%E8%8A%B1%E7%8C%AB%E5%BD%B1%E8%A7%86.json"
+      "jar": "https://jukemf.com/tvbox/oppo/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
+      "ext": "https://jukemf.com/tvbox/oppo/lib/huamaoyingshi.json"
     },
     {
       "key": "csp_兔瓜",
@@ -1246,8 +1265,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "http://xhww.fun:63/小米/5.jar;md5;c570b052645834a1109b54421c1552f9",
-      "ext": "https://gitee.com/ghjdz/tvbox/raw/master/OPPO/lib/%E5%85%94%E5%85%94%E7%93%9C.json"
+      "jar": "https://jukemf.com/tvbox/oppo/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
+      "ext": "https://jukemf.com/tvbox/oppo/lib/tutugua.json"
     },
     {
       "key": "csp_达龟",
@@ -1257,8 +1276,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "http://xhww.fun:63/小米/5.jar;md5;c570b052645834a1109b54421c1552f9",
-      "ext": "https://gitee.com/ghjdz/tvbox/raw/master/OPPO/lib/%E8%BE%BE%E8%BE%BE%E9%BE%9F%E5%BD%B1%E8%A7%86.json"
+      "jar": "https://jukemf.com/tvbox/oppo/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
+      "ext": "https://jukemf.com/tvbox/oppo/lib/dadaguiyingshi.json"
     },
     {
       "key": "csp_101",
@@ -1268,8 +1287,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "http://xhww.fun:63/小米/5.jar;md5;c570b052645834a1109b54421c1552f9",
-      "ext": "https://gitee.com/ghjdz/tvbox/raw/master/OPPO/lib/101%E5%BD%B1%E8%A7%86.json"
+      "jar": "https://jukemf.com/tvbox/oppo/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
+      "ext": "https://jukemf.com/tvbox/oppo/lib/101.json"
     },
     {
       "key": "csp_量子",
@@ -1279,8 +1298,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "http://xhww.fun:63/小米/5.jar;md5;c570b052645834a1109b54421c1552f9",
-      "ext": "https://gitee.com/ghjdz/tvbox/raw/master/OPPO/lib/%E9%87%8F%E5%AD%90%E8%B5%84%E6%BA%90%E7%BD%91.json"
+      "jar": "https://jukemf.com/tvbox/oppo/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
+      "ext": "https://jukemf.com/tvbox/oppo/lib/liangziziyuanwang.json"
     },
     {
       "key": "dr_兔小贝",
@@ -1308,7 +1327,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "http://饭太硬.top/x/json/少儿教育.json"
+      "ext": "https://jukemf.com/tvbox/oppo/lib/shaoerjiaoyu.json"
     },
     {
       "key": "小学课堂",
@@ -1322,7 +1341,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "http://饭太硬.top/x/json/小学课堂.json"
+      "ext": "https://jukemf.com/tvbox/oppo/lib/xiaoxueketang.json"
     },
     {
       "key": "初中课堂",
@@ -1336,7 +1355,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "http://饭太硬.top/x/json/初中课堂.json"
+      "ext": "https://jukemf.com/tvbox/oppo/lib/chuzhongketang.json"
     },
     {
       "key": "高中教育",
@@ -1350,7 +1369,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "http://饭太硬.top/x/json/高中课堂.json"
+      "ext": "https://jukemf.com/tvbox/oppo/lib/gaozhongketang.json"
     }
   ],
   "parses": [
@@ -1993,7 +2012,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": "https://gitee.com/ghjdz/tvbox/raw/master/OPPO/lib/tvlive.txt",
+      "url": "https://jukemf.com/tvbox/oppo/lib/live.txt",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
