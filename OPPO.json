@@ -1,5 +1,5 @@
 {
-  "spider": "http://jukemf.com/tvbox/oppo/lib/oppo.jar;md5;4a0dc0ae860c90d0001f1fc0fae230f7",
+  "spider": "http://jukemf.com/tvbox/oppo/lib/oppo.jar;md5;de50ad6ce386187037fbf980b04b229e",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
@@ -191,7 +191,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto",
-      "jar": "https://jukemf.com/tvbox/oppo/lib/XYQ.jar;md5;24c0c47c8de22f3fa524f2a01b82d5d6"
+      "jar": "https://jukemf.com/tvbox/oppo/lib/XYQ.jar;md5;0d46d7d1c01cd19b374a3280c8864596"
     },
     {
       "key": "csp_XYQHiker_DOVX搜索",
@@ -203,7 +203,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://jukemf.com/tvbox/oppo/lib/DOVX.json",
-      "jar": "https://jukemf.com/tvbox/oppo/lib/XYQ.jar;md5;24c0c47c8de22f3fa524f2a01b82d5d6"
+      "jar": "https://jukemf.com/tvbox/oppo/lib/XYQ.jar;md5;0d46d7d1c01cd19b374a3280c8864596"
     },
     {
       "key": "csp_XYQHiker_土拨鼠搜索",
@@ -215,7 +215,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://jukemf.com/tvbox/oppo/lib/tuboshu.json",
-      "jar": "https://jukemf.com/tvbox/oppo/lib/XYQ.jar;md5;24c0c47c8de22f3fa524f2a01b82d5d6"
+      "jar": "https://jukemf.com/tvbox/oppo/lib/XYQ.jar;md5;0d46d7d1c01cd19b374a3280c8864596"
     },
     {
       "key": "csp_XYQHikerAL_豆豆飞",
@@ -227,7 +227,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://jukemf.com/tvbox/oppo/lib/doudoufei.json",
-      "jar": "https://jukemf.com/tvbox/oppo/lib/XYQ.jar;md5;24c0c47c8de22f3fa524f2a01b82d5d6"
+      "jar": "https://jukemf.com/tvbox/oppo/lib/XYQ.jar;md5;0d46d7d1c01cd19b374a3280c8864596"
     },
     {
       "key": "csp_AliPS",
@@ -239,7 +239,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto",
-      "jar": "https://jukemf.com/tvbox/oppo/lib/XYQ.jar;md5;24c0c47c8de22f3fa524f2a01b82d5d6"
+      "jar": "https://jukemf.com/tvbox/oppo/lib/XYQ.jar;md5;0d46d7d1c01cd19b374a3280c8864596"
     },
     {
       "key": "csp_XYQHikerAL_我的小站",
@@ -251,7 +251,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://jukemf.com/tvbox/oppo/lib/wodexiaozhan.json",
-      "jar": "https://jukemf.com/tvbox/oppo/lib/XYQ.jar;md5;24c0c47c8de22f3fa524f2a01b82d5d6"
+      "jar": "https://jukemf.com/tvbox/oppo/lib/XYQ.jar;md5;0d46d7d1c01cd19b374a3280c8864596"
     },
     {
       "key": "csp_XYQHikerAL_阿里云盘网",
@@ -263,7 +263,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://jukemf.com/tvbox/oppo/lib/aliyunpan.json",
-      "jar": "https://jukemf.com/tvbox/oppo/lib/XYQ.jar;md5;24c0c47c8de22f3fa524f2a01b82d5d6"
+      "jar": "https://jukemf.com/tvbox/oppo/lib/XYQ.jar;md5;0d46d7d1c01cd19b374a3280c8864596"
     },
     {
       "key": "csp_XYQHikerAL_橘子盘搜",
@@ -275,7 +275,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://jukemf.com/tvbox/oppo/lib/juzipansou.json",
-      "jar": "https://jukemf.com/tvbox/oppo/lib/XYQ.jar;md5;24c0c47c8de22f3fa524f2a01b82d5d6"
+      "jar": "https://jukemf.com/tvbox/oppo/lib/XYQ.jar;md5;0d46d7d1c01cd19b374a3280c8864596"
     },
     {
       "key": "csp_XYQHikerAL_云盘资源",
@@ -287,7 +287,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://jukemf.com/tvbox/oppo/lib/yunpanziyuan.json",
-      "jar": "https://jukemf.com/tvbox/oppo/lib/XYQ.jar;md5;24c0c47c8de22f3fa524f2a01b82d5d6"
+      "jar": "https://jukemf.com/tvbox/oppo/lib/XYQ.jar;md5;0d46d7d1c01cd19b374a3280c8864596"
     },
     {
       "key": "Lib",
@@ -552,15 +552,12 @@
       "ext": "https://jukemf.com/tvbox/oppo/lib/tutugua.json"
     },
     {
-      "key": "Lezhu",
+      "key": "了猪",
       "name": "📽️乐猪┃BPQ",
-      "api": "csp_XYQHiker",
+      "api": "csp_XBPQ",
       "type": 3,
-      "filterable": 1,
-      "quickSearch": 1,
-      "searchable": 1,
       "ext": "https://jukemf.com/tvbox/oppo/lib/lezhu.json",
-      "jar": "https://jukemf.com/tvbox/oppo/lib/XYQ.jar;md5;24c0c47c8de22f3fa524f2a01b82d5d6"
+      "jar": "https://jukemf.com/tvbox/oppo/lib/5.jar;md5;c570b052645834a1109b54421c1552f9"
     },
     {
       "key": "csp_达龟",
@@ -1492,6 +1489,20 @@
       }
     },
     {
+      "name": "小米米🥭",
+      "type": 1,
+      "url": "http://jx.wogg.link:63/jiexi/饭特析.php?url=",
+      "ext": {
+        "flag": [
+          "qiqi-",
+          "YuMi-vip",
+          "YuMi",
+          "mgtv",
+          "芒果"
+        ]
+      }
+    },
+    {
       "name": "春风🥭",
       "type": 1,
       "url": "http://111.230.24.38:4433/qingfeng.php/?url=",
@@ -1501,21 +1512,6 @@
           "mgtv",
           "芒果"
         ]
-      }
-    },
-    {
-      "name": "玉米🥭",
-      "type": 1,
-      "url": "http://123.99.192.241:5000/api/jiexi/xg?Key=NLoNjn48GAF3UQdsP0&url=",
-      "ext": {
-        "flag": [
-          "YuMi-vip",
-          "YuMi-AL",
-          "芒果"
-        ]
-      },
-      "header": {
-        "User-Agent": "okhttp/3.12.0"
       }
     },
     {
@@ -1529,6 +1525,11 @@
           "芒果"
         ]
       }
+    },
+    {
+      "name": "Json轮询",
+      "type": 2,
+      "url": "Sequence"
     },
     {
       "name": "Json并发",
