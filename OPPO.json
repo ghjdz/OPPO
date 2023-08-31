@@ -175,10 +175,9 @@
       "name": "👽找资源┃搜索",
       "type": 3,
       "api": "csp_Zhaozy",
-      "playerType": 1,
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
+      "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto$$$fanfan$$$qqq111"
     },
     {
@@ -307,8 +306,8 @@
       "quickSearch": 1,
       "changeable": 1,
       "playerType": "1",
-      "api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
-      "ext": "http://jukemf.com/tvbox/oppo/lib/jp.js"
+      "api": "https://jukemf.com/tvbox/oppo/lib/drpy1.min.js",
+      "ext": "https://jukemf.com/tvbox/oppo/lib/jp.js"
     },
     {
       "key": "csp_Ysgc",
@@ -339,6 +338,13 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://cz01.me/"
+    },
+    {
+      "key": "ytyb",
+      "name": "🍄野兔┃直连",
+      "type": 1,
+      "playerType": 1,
+      "api": "http://xn--yetu07f.xn--yetu07f.icu:66/api.php/provide/vod/?ac=list"
     },
     {
       "key": "Vofl",
@@ -393,8 +399,9 @@
       "key": "KW2k",
       "name": "😎酷玩┃APP",
       "type": 3,
-      "playerType": 2,
-      "api": "http://xhww.fun:63/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "api": "https://jukemf.com/tvbox/oppo/lib/drpy2.min.js",
       "ext": "https://jukemf.com/tvbox/oppo/lib/kuwan2k.js"
     },
     {
@@ -455,7 +462,7 @@
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
-      "api": "http://xhww.fun:63/js/drpy2.min.js",
+      "api": "https://jukemf.com/tvbox/oppo/lib/drpy2.min.js",
       "ext": "https://jukemf.com/tvbox/oppo/lib/nangua.js",
       "changeable": 0
     },
@@ -691,7 +698,7 @@
     },
     {
       "key": "TVB云播",
-      "name": "📽️TVB┃BPQ",
+      "name": "📽️零度┃BPQ",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -1163,7 +1170,7 @@
       "key": "dr_兔小贝",
       "name": "📚儿童┃启蒙",
       "type": 3,
-      "api": "http://xhww.fun:63/js/drpy1.min.js",
+      "api": "https://jukemf.com/tvbox/oppo/lib/drpy1.min.js",
       "ext": "https://jukemf.com/tvbox/oppo/lib/tuxiaobei.js",
       "style": {
         "type": "rect",
