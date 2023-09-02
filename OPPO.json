@@ -375,16 +375,6 @@
       "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
     },
     {
-      "key": "奇奇",
-      "name": "😎奇奇┃APP",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://4k.953365.cn:8090/xgapp.php/v3/"
-    },
-    {
       "key": "YQKAPP",
       "name": "😎一起┃App",
       "type": 3,
@@ -566,17 +556,6 @@
       "filterable": 1,
       "jar": "https://jukemf.com/tvbox/oppo/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
       "ext": "https://jukemf.com/tvbox/oppo/lib/dadaguiyingshi.json"
-    },
-    {
-      "key":"csp_圣城",
-      "name": "📽️圣城┃BPQ",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar":"https://jukemf.com/tvbox/oppo/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
-      "ext":"https://jukemf.com/tvbox/oppo/lib/shengchengyingshi.json"
     },
     {
       "key": "龟龟",
@@ -1050,17 +1029,6 @@
       "ext": "https://jukemf.com/tvbox/oppo/lib/101.json"
     },
     {
-      "key": "csp_量子",
-      "name": "📽️量子┃BPQ",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://jukemf.com/tvbox/oppo/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
-      "ext": "https://jukemf.com/tvbox/oppo/lib/liangziziyuanwang.json"
-    },
-    {
       "key": "csp_真不卡",
       "name": "📽️不卡┃BPQ",
       "type": 3,
@@ -1094,7 +1062,7 @@
     },
     {
       "key": "兔兔",
-      "name": "📽️兔兔｜BPQ",
+      "name": "📽️兔兔┃BPQ",
       "type": 3,
       "jar": "https://jukemf.com/tvbox/oppo/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
       "searchable": 1,
@@ -1126,6 +1094,52 @@
         "搜索副标题": "\"website\":\"&&\"",
         "搜索链接": "\"url\":\"&&\""
       }
+    },
+    {
+      "key": "csp_淘剧",
+      "name": "📽️淘剧┃BPQ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext":{
+        "站名":"淘剧影院",
+        "主页url":"http://dyxz.tv/",
+        "简介":"站点无剧情介绍…",
+        "影片状态":"更新：&&</p>",
+        "影片类型":"类型：&&</a>",
+        "影片地区":"地区：</span>&&</span>",
+        "影片年代":"年份：&&</p>",
+        "线路数组":"#down&&</li>",
+        "线路标题":">&&</a>[替换:播放源>>淘剧线路]",
+        "分类url":"http://dyxz.tv/list/{cateId}_{catePg}.html;;ak",
+        "分类":"电影$1#电视剧$2#综艺$4#动漫$3"
+        }
+    },
+    {
+      "key": "csp_毛子",
+      "name": "📽️毛子┃BPQ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext":{
+        "站名":"毛毛子影视",
+        "主页url":"http://ys.qtw.asia/",
+        "简介":"剧情：&&<a",
+        "导演":"导演：&&</div>",
+        "主演":"主演：&&</div>",
+        "影片状态":"集数：&&</div>",
+        "影片类型":"video-info-aux scroll-content\">&&立即播放",
+        "数组":"module-item-pic\">&&module-item\">",
+        "副标题":"module-item-text\"&&</div>",
+        "线路数组":"data-dropdown-value=&&</div>[排序:号][不包含:3号]",
+        "线路标题":"<span>&&</small>[替换:DPlayer>>4K线路#</span><small>>>共]+集",
+        "分类url":"http://ys.qtw.asia/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html;;ak",
+        "分类":"4K$8#电影$1#电视剧$2#综艺$3#动漫$4#短剧$6"
+        }
     },
     {
       "key": "dr_兔小贝",
@@ -1328,19 +1342,6 @@
       "url": "http://xiaoxin.1080p.fun/home/api?type=ys&uid=91198&key=bhntuwyAJLMTUY1478&url="
     },
     {
-      "name": "😈魔性",
-      "type": 1,
-      "url": "http://175.178.183.192:83/txqq.php?url=",
-      "ext": {
-        "flag": [
-          "qq"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.1.0"
-        }
-      }
-    },
-    {
       "name": "🕵影探",
       "type": 1,
       "url": "http://jiexi.lyyytv.cn/json.php?url=",
@@ -1357,48 +1358,6 @@
       "name": "🎯超级解析",
       "type": 1,
       "url": "http://110.42.2.247:880/analysis/json/?uid=2384&my=bcijquvxAFKMUY0579&format=json&url="
-    },
-    {
-      "name": "🛵奇奇",
-      "type": 1,
-      "url": "http://42.51.37.161:5678/json/520239app9/mlzjphp111.php?url=",
-      "ext": {
-        "flag": [
-          "FY",
-          "Feiyun",
-          "FYNB"
-        ],
-        "header": {
-          "User-Agent": "LuaSocket 3.0-rc1"
-        }
-      }
-    },
-    {
-      "name": "🛵奇奇2K",
-      "type": 1,
-      "url": "http://42.157.128.109:2323/CH/zy/qiqi.php?url=",
-      "ext": {
-        "flag": [
-          "qiqi",
-          "kuying-qq"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.1.0"
-        }
-      }
-    },
-    {
-      "name": "🐜蚂蚁",
-      "type": 1,
-      "url": "http://103.146.230.202:6688/api/?key=wzFFqn51SZGkEnm6cG&url=",
-      "ext": {
-        "flag": [
-          "NBY"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.1.0"
-        }
-      }
     },
     {
       "name": "🎯VIP1",
