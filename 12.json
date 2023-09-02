@@ -72,7 +72,7 @@
     },
     {
       "key": "轻便撸",
-      "name": "三花聚顶 | 业余",
+      "name": "三花聚顶",
       "type": 3,
       "searchable": 0,
       "quickSearch": 0,
@@ -93,7 +93,7 @@
     },
     {
     "key": "仓库",
-    "name": "仓库影院 | 业余",
+    "name": "仓库影院",
     "type": 3,
     "style": {"type": "rect","ratio":1.33},
     "api": "csp_XBPQ",
@@ -107,15 +107,6 @@
     "副标题": "<span class=\"pic-text text-right\">&&</span>",
     "分类url": "http://691hsck.cc/vodtype/{cateId}-{catePg}.html",
     "分类": "国产系列$2#欧美系列$3#日韩系列$1#成人动漫$4"}
-    },
-    {
-      "key": "玉兔资源",
-      "name": "月宫玉兔 | 业余",
-      "type": 0,
-      "style": {"type": "rect","ratio":1.33},
-      "api": "https://apiyutu.com/api.php/provide/vod/at/xml/",
-      "searchable": 1,
-      "quickSearch": 1
     },
     {
       "key": "Jable",
