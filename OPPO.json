@@ -1,5 +1,5 @@
 {
-  "spider": "http://jukemf.com/tvbox/oppo/lib/oppo.jar;md5;51f99bdb067984f87ee16dc026da79d2",
+  "spider": "http://jukemf.com/tvbox/oppo/lib/oppo.jar;md5;a62fec72bf4f675ddc1e19dfc09687cd",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
@@ -294,16 +294,6 @@
       "ext": "https://jukemf.com/tvbox/oppo/lib/jp.js"
     },
     {
-      "key": "csp_Ysgc",
-      "name": "🍄工场┃直连",
-      "type": 3,
-      "api": "csp_Ysgc",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.ysgc1.cc/"
-    },
-    {
       "key": "csp_Nmys",
       "name": "🍄农民┃直连",
       "type": 3,
@@ -476,16 +466,6 @@
       "ext": "http://www.miniku.cc/xgapp.php/v1/"
     },
     {
-      "key":"明帝影视",
-      "name": "😎明帝┃App",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext":"https://ys.md214.cn/api.php/app/"
-    },
-    {
       "key": "蘑菇2",
       "name": "️😎蘑菇┃APP",
       "type": 3,
@@ -515,6 +495,17 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://154.12.90.7:86/api.php/app/"
+    },
+    {
+      "key": "率率",
+      "name": "😎率率┃App",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "http://11111111.moguys.xyz/api.php/app/"
     },
     {
       "key":"速映影视",
@@ -899,28 +890,6 @@
         "主演": "主演：&&</p>",
         "简介": "<p>&&</p>"
       }
-    },
-    {
-      "key": "耐看",
-      "name": "📽️耐看┃BPQ",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://jukemf.com/tvbox/oppo/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
-      "playerType": "1",
-      "ext": {
-        "影片类型": "<div class=\"module-blocklist\">&&</div>",
-        "导演": "导演：&&</div>",
-        "主演": "主演：&&</div>",
-        "简介": "video-info-item video-info-content vod_content\">&&</span>",
-        "标题": "title=\"&&\"",
-        "链接": "href=\"&&\"",
-        "搜索图片": "http://xhww.fun:63/小米/4.jpeg",
-        "线路数组": "module-tab-item tab-item&&</div>",
-        "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
-        "请求头": "User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_0) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.56 Safari/535.11",
-        "分类": "动漫$4#国产剧$13#电视剧$2#电影$1#综艺$3",
-        "分类url": "https://www.nkvod.com/show/{cateId}--{by}}------{catePg}---{year}.html;;m"
-        }
     },
     {
       "key": "滋滋",
