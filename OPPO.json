@@ -1,5 +1,5 @@
 {
-  "spider": "http://jukemf.com/tvbox/oppo/lib/oppo.jar;md5;a62fec72bf4f675ddc1e19dfc09687cd",
+  "spider": "http://jukemf.com/tvbox/oppo/lib/oppo.jar;md5;4d1c769684cc9b85f8adf54f8b43abb6",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
@@ -117,162 +117,6 @@
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/"
     },
     {
-      "key": "七夜",
-      "name": "👽七夜┃搜索",
-      "type": 3,
-      "api": "csp_Dovx",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto"
-    },
-    {
-      "key": "PanSou",
-      "name": "👽盘搜┃搜索",
-      "type": 3,
-      "api": "csp_PanSou",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto"
-    },
-    {
-      "key": "YiSo",
-      "name": "👽易搜┃搜索",
-      "type": 3,
-      "api": "csp_YiSo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
-    },
-    {
-      "key": "UpYun",
-      "name": "👽Up搜┃搜索",
-      "type": 3,
-      "api": "csp_UpYun",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto"
-    },
-    {
-      "key": "PanSearch",
-      "name": "👽盘Se┃搜索",
-      "type": 3,
-      "api": "csp_PanSearch",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto"
-    },
-    {
-      "key": "Zhaozy",
-      "name": "👽找资源┃搜索",
-      "type": 3,
-      "api": "csp_Zhaozy",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto$$$fanfan$$$qqq111"
-    },
-    {
-      "key": "Gitcafe",
-      "name": "👽小纸条┃搜索",
-      "type": 3,
-      "api": "csp_Gitcafe",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto",
-      "jar": "https://jukemf.com/tvbox/oppo/lib/XYQ.jar;md5;0d46d7d1c01cd19b374a3280c8864596"
-    },
-    {
-      "key": "csp_XYQHiker_土拨鼠搜索",
-      "name": "👽土拨鼠┃搜索",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jukemf.com/tvbox/oppo/lib/tuboshu.json",
-      "jar": "https://jukemf.com/tvbox/oppo/lib/XYQ.jar;md5;0d46d7d1c01cd19b374a3280c8864596"
-    },
-    {
-      "key": "csp_XYQHikerAL_豆豆飞",
-      "name": "👽豆豆飞┃搜索",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jukemf.com/tvbox/oppo/lib/doudoufei.json",
-      "jar": "https://jukemf.com/tvbox/oppo/lib/XYQ.jar;md5;0d46d7d1c01cd19b374a3280c8864596"
-    },
-    {
-      "key": "csp_AliPS",
-      "name": "👽喵狸盘搜┃搜索",
-      "type": 3,
-      "api": "csp_AliPS",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto",
-      "jar": "https://jukemf.com/tvbox/oppo/lib/XYQ.jar;md5;0d46d7d1c01cd19b374a3280c8864596"
-    },
-    {
-      "key": "csp_XYQHikerAL_我的小站",
-      "name": "👽我的小站┃搜索",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jukemf.com/tvbox/oppo/lib/wodexiaozhan.json",
-      "jar": "https://jukemf.com/tvbox/oppo/lib/XYQ.jar;md5;0d46d7d1c01cd19b374a3280c8864596"
-    },
-    {
-      "key": "csp_XYQHikerAL_阿里云盘网",
-      "name": "👽阿里云盘┃搜索",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jukemf.com/tvbox/oppo/lib/aliyunpan.json",
-      "jar": "https://jukemf.com/tvbox/oppo/lib/XYQ.jar;md5;0d46d7d1c01cd19b374a3280c8864596"
-    },
-    {
-      "key": "csp_XYQHikerAL_橘子盘搜",
-      "name": "👽橘子盘搜┃搜索",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jukemf.com/tvbox/oppo/lib/juzipansou.json",
-      "jar": "https://jukemf.com/tvbox/oppo/lib/XYQ.jar;md5;0d46d7d1c01cd19b374a3280c8864596"
-    },
-    {
-      "key": "csp_XYQHikerAL_云盘资源",
-      "name": "👽云盘资源┃搜索",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jukemf.com/tvbox/oppo/lib/yunpanziyuan.json",
-      "jar": "https://jukemf.com/tvbox/oppo/lib/XYQ.jar;md5;0d46d7d1c01cd19b374a3280c8864596"
-    },
-    {
       "key": "Lib",
       "name": "🍄利播┃直连",
       "type": 3,
@@ -354,17 +198,6 @@
       "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
     },
     {
-      "key": "qq2k",
-      "name": "😎QQ┃APP",
-      "type": 3,
-      "playerType": 2,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
-    },
-    {
       "key": "YQKAPP",
       "name": "😎一起┃App",
       "type": 3,
@@ -383,17 +216,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
-    },
-    {
-      "key": "瑞丰",
-      "name": "😎辣辣┃APP",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "jar": "https://jukemf.com/tvbox/oppo/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://www.miniku.cc/xgapp.php/v2/"
     },
     {
       "key": "落落",
@@ -437,13 +259,12 @@
     },
     {
       "key": "365",
-      "name": "😎年年┃APP",
+      "name": "😎陌陌┃App",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://jukemf.com/tvbox/oppo/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
+      "changeable": 1,
       "ext": "http://guan.yy365.vip/api.php/app/"
     },
     {
@@ -454,27 +275,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
-    },
-    {
-      "key": "迷你库",
-      "name": "😎迷你┃App",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://www.miniku.cc/xgapp.php/v1/"
-    },
-    {
-      "key": "蘑菇2",
-      "name": "️😎蘑菇┃APP",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "jar": "https://jukemf.com/tvbox/oppo/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://11111111.moguys.xyz/api.php/app/"
     },
     {
       "key": "DPTV",
@@ -497,26 +297,11 @@
       "ext": "http://154.12.90.7:86/api.php/app/"
     },
     {
-      "key": "率率",
-      "name": "😎率率┃App",
-      "type": 3,
-      "api": "csp_AppYsV2",
+      "key": "ytyb",
+      "name": "😎野兔┃云播",
+      "type": 1,
       "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "http://11111111.moguys.xyz/api.php/app/"
-    },
-    {
-      "key":"速映影视",
-      "name": "📽️速映┃BPQ",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://jukemf.com/tvbox/oppo/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
-      "ext": "https://jukemf.com/tvbox/oppo/lib/suyingyingshi.json"
+      "api": "http://xn--yetu07f.xn--yetu07f.icu:66/api.php/provide/vod/?ac=list"
     },
     {
       "key": "csp_兔瓜",
@@ -536,17 +321,6 @@
       "type": 3,
       "ext": "https://jukemf.com/tvbox/oppo/lib/lezhu.json",
       "jar": "https://jukemf.com/tvbox/oppo/lib/5.jar;md5;c570b052645834a1109b54421c1552f9"
-    },
-    {
-      "key": "csp_达龟",
-      "name": "📽️达龟┃BPQ",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://jukemf.com/tvbox/oppo/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
-      "ext": "https://jukemf.com/tvbox/oppo/lib/dadaguiyingshi.json"
     },
     {
       "key": "龟龟",
@@ -656,16 +430,6 @@
         "搜索url": "https://www.dandanju.cc/search/{wd}----------1---.html",
         "搜索数组": "<li class=\"active clearfix&&</li"
       }
-    },
-    {
-      "key": "TVB云播",
-      "name": "📽️零度┃BPQ",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable":1,
-      "ext": "https://jukemf.com/tvbox/oppo/lib/TVB.json"
     },
     {
       "key": "土豪",
@@ -961,12 +725,15 @@
       }
     },
     {
-      "key": "利播",
-      "name": "📽️利播┃BPQ",
+      "key":"速映影视",
+      "name": "📽️速映┃BPQ",
       "type": 3,
-      "jar": "https://jukemf.com/tvbox/oppo/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
       "api": "csp_XBPQ",
-      "ext": "https://jukemf.com/tvbox/oppo/lib/libo.json"
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://jukemf.com/tvbox/oppo/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
+      "ext": "https://jukemf.com/tvbox/oppo/lib/suyingyingshi.json"
     },
     {
       "key": "深蓝影视",
@@ -1111,6 +878,91 @@
         }
     },
     {
+      "key": "ok",
+      "name": "📽️Free┃BPQ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "playerType": "1",
+      "jar": "https://jukemf.com/tvbox/oppo/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
+      "ext": {
+        "分类url": "https://www.freeok.vip/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;m",
+        "分类": "电影&剧集&动漫&综艺",
+        "搜索url": "https://www.cupfox.app/s/{wd}",
+        "分类值": "1&2&3&4",
+        "嗅探词": "m3u8#.m3u8#.mp4#mp4",
+        "搜索二次截取": "type=\"application/json\">&&</script>",
+        "搜索数组": "{\"te&&}[包含:freeok]",
+        "搜索图片": "https://s1.ax1x.com/2023/07/13/pChRQaD.jpg",
+        "搜索标题": "xt\":\"&&\"",
+        "搜索链接": "\"url\":\"&&\"",
+        "搜索副标题": "FREEOK",
+        "搜索模式": "1",
+        "导演": "导演：&&</div>",
+        "主演": "主演：&&</div>",
+        "简介": "<p>&&</p>"
+      }
+    },
+    {
+      "key": "七夜",
+      "name": "😾七夜┃搜索",
+      "type": 3,
+      "api": "csp_Dovx",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto"
+    },
+    {
+      "key": "PanSou",
+      "name": "🦊盘搜┃搜索",
+      "type": 3,
+      "api": "csp_PanSou",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto"
+    },
+    {
+      "key": "YiSo",
+      "name": "😹易搜┃搜索",
+      "type": 3,
+      "api": "csp_YiSo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+    },
+    {
+      "key": "UpYun",
+      "name": "😻Up搜┃搜索",
+      "type": 3,
+      "api": "csp_UpYun",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto"
+    },
+    {
+      "key": "PanSearch",
+      "name": "🙀盘Se┃搜索",
+      "type": 3,
+      "api": "csp_PanSearch",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto"
+    },
+    {
+      "key": "Zhaozy",
+      "name": "🐺找资源┃搜索",
+      "type": 3,
+      "api": "csp_Zhaozy",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto$$$fanfan$$$qqq111"
+    },
+    {
       "key": "dr_兔小贝",
       "name": "📚儿童┃启蒙",
       "type": 3,
@@ -1193,23 +1045,13 @@
       "url": "Web"
     },
     {
-      "name": "神秘的",
-      "type": 1,
-      "url": "http://json.g9.pub:66/?url="
-    },
-    {
-      "name": "哥哥们",
+      "name": "神秘的哥哥们",
       "type": 1,
       "url": "http://jx.wogg.link:63/jiexi/饭特析.php?url="
     },
     {
-      "name": "全部",
+      "name": "解析",
       "type": 1,
-      "url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="
-    },
-    {
-      "name": "来自",
-      "type": 0,
       "url": "https://jx.zhanlangbu.com/?url=",
       "ext": {
         "flag": [
@@ -1234,6 +1076,16 @@
           "xigua"
         ]
       }
+    },
+    {
+      "name": "全部",
+      "type": 1,
+      "url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="
+    },
+    {
+      "name": "来自",
+      "type": 0,
+      "url": "https://json.key521.cn/api/?key=df27d9ca9ec97e22c47f8565a50aa6f5&url="
     },
     {
       "name": "网络",
@@ -1538,6 +1390,7 @@
       "type": 0,
       "url": "https://jukemf.com/tvbox/oppo/lib/live.txt",
       "playerType": 1,
+      "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
