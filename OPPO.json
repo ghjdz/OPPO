@@ -1,5 +1,5 @@
 {
-  "spider": "http://jukemf.com/tvbox/oppo/lib/oppo.jar;md5;4d1c769684cc9b85f8adf54f8b43abb6",
+  "spider": "http://jukemf.com/tvbox/oppo/lib/oppo.jar;md5;f20b74480c058b1ff6236601f92d65a8",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
@@ -98,13 +98,34 @@
     },
     {
       "key": "t4_wo",
-      "name": "👽玩偶哥哥┃T4",
+      "name": "🚀玩偶哥哥┃T4",
       "type": 4,
       "api": "http://home.jundie.top:9520/spider/csp_Wogg",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt"
+    },
+    {
+      "key": "小纸条_cli",
+      "name": "🚀小纸条┃T4",
+      "type": 4,
+      "api": "http://home.jundie.top:9520/spider/cli_gitCafe",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt",
+      "timeout": 30
+    },
+    {
+      "key": "荐片",
+      "name": "🚀荐片┃T4",
+      "type": 4,
+      "api": "http://home.jundie.top:9520/spider/csp_JP",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "timeout": 30
     },
     {
       "key": "csp_WoGG",
@@ -165,6 +186,23 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
+    },
+    {
+      "key": "csp_Ysgc",
+      "name": "🍄工场┃直连",
+      "type": 3,
+      "api": "csp_Ysgc",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.ysgc1.cc/"
+    },
+    {
+      "key": "ytyb",
+      "name": "🍄野兔┃直连",
+      "type": 1,
+      "playerType": 1,
+      "api": "http://xn--yetu07f.xn--yetu07f.icu:66/api.php/provide/vod/?ac=list"
     },
     {
       "key": "Vofl",
@@ -288,20 +326,13 @@
     },
     {
       "key": "MXTV",
-      "name": "😎魔性┃APP",
+      "name": "😎魔魔┃APP",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://154.12.90.7:86/api.php/app/"
-    },
-    {
-      "key": "ytyb",
-      "name": "😎野兔┃云播",
-      "type": 1,
-      "playerType": 1,
-      "api": "http://xn--yetu07f.xn--yetu07f.icu:66/api.php/provide/vod/?ac=list"
     },
     {
       "key": "csp_兔瓜",
@@ -454,8 +485,8 @@
       }
     },
     {
-      "key": "鲸落",
-      "name": "📽️鲸落┃BPQ",
+      "key": "零度",
+      "name": "📽️零度┃BPQ",
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
@@ -775,17 +806,6 @@
       "ext": "https://jukemf.com/tvbox/oppo/lib/zhenbuka.json"
     },
     {
-      "key": "csp_七年",
-      "name": "📽️七年┃BPQ",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://jukemf.com/tvbox/oppo/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
-      "ext": "https://jukemf.com/tvbox/oppo/lib/qinian.json"
-    },
-    {
       "key": "csp_日后",
       "name": "📽️日后┃BPQ",
       "type": 3,
@@ -842,15 +862,34 @@
       "ext":{
         "站名":"淘剧影院",
         "主页url":"http://dyxz.tv/",
-        "简介":"站点无剧情介绍…",
-        "影片状态":"更新：&&</p>",
-        "影片类型":"类型：&&</a>",
-        "影片地区":"地区：</span>&&</span>",
-        "影片年代":"年份：&&</p>",
-        "线路数组":"#down&&</li>",
-        "线路标题":">&&</a>[替换:播放源>>淘剧线路]",
-        "分类url":"http://dyxz.tv/list/{cateId}_{catePg}.html;;ak",
-        "分类":"电影$1#电视剧$2#综艺$4#动漫$3"
+        "数组": "<div class=\"stui-vodlist__box\">&&</div>",
+        "图片": "data-original=\"&&\"",
+        "标题": "title=\"&&\"",
+        "链接": "href=\"&&\"",
+        "副标题": "<span class=\"pic-text text-right\">&&</span>",
+        "搜索url": "http://dyxz.tv/search.php;post;searchword={wd}",
+        "搜索模式": "1",
+        "搜索数组": "<a class=\"v-thumb stui-vodlist__thumb&&</a>",
+        "搜索图片": "data-original=\"&&\"",
+        "搜索标题": "title=\"&&\"",
+        "搜索链接": "href=\"&&\"",
+        "搜索副标题": "<span class=\"pic-text text-right\">&&</span>",
+        "搜索后缀": "/view/",
+        "线路数组": "<a data-toggle=\"tab\"&&/a>",
+        "线路标题": ">&&<",
+        "播放数组": "<ul class=\"stui-content__playlist clearfix&&</ul>",
+        "影片年代": "年份：&&</p>",
+        "影片地区": "地区：&&<span",
+        "影片类型": "类型：&&</a>",
+        "导演": "导演：&&</p>",
+        "主演": "主演：&&</p>",
+        "简介": "更新：&&</p>",
+        "播放列表": "<a&&/a>",
+        "播放标题": ">&&<",
+        "播放链接": "href=\"&&\"",
+        "免嗅": "0",
+        "分类url": "http://dyxz.tv/list/{cateId}_{catePg}.html",
+        "分类": "电影$1#电视剧$2#动漫$3#综艺$4"
         }
     },
     {
@@ -900,6 +939,47 @@
         "导演": "导演：&&</div>",
         "主演": "主演：&&</div>",
         "简介": "<p>&&</p>"
+      }
+    },
+    {
+      "key": "虎虎",
+      "name": "📽️虎虎┃BPQ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://jukemf.com/tvbox/oppo/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
+      "ext": "https://jukemf.com/tvbox/oppo/lib/huhu.json"
+    },
+    {
+      "key": "csp_视觉",
+      "name": "📽️视觉┃BPQ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://jukemf.com/tvbox/oppo/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
+      "ext": "https://jukemf.com/tvbox/oppo/lib/xinshijue.json"
+    },
+    {
+      "key": "耐看",
+      "name": "📽️耐看┃BPQ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://jukemf.com/tvbox/oppo/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
+      "playerType": "1",
+      "ext": {
+        "影片类型": "<div class=\"module-blocklist\">&&</div>",
+        "导演":"导演：&&</div>",
+        "主演":"主演：&&</div>",
+        "简介":"video-info-item video-info-content vod_content\">&&</span>",
+        "标题":"title=\"&&\"",
+        "链接":"href=\"&&\"",
+        "搜索图片":"http://xhww.fun:63/小米/4.jpeg",
+        "线路数组":"module-tab-item tab-item&&</div>",
+        "线路标题":"<span>&&</small>[替换:</span><small>>>共]+集",
+        "请求头":"User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_0) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.56 Safari/535.11",
+        "分类":"动漫$4#国产剧$13#电视剧$2#电影$1#综艺$3",
+        "分类url":"https://www.nkvod.com/show/{cateId}--{by}}------{catePg}---{year}.html;;m"
       }
     },
     {
