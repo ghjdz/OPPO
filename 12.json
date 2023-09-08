@@ -96,7 +96,7 @@
     "key": "仓库",
     "name": "仓库影院",
     "type": 3,
-    "jar": "http://xhww.fun:63/小米/5.jar;md5;c570b052645834a1109b54421c1552f9",
+    "jar": "./js/5.jar;md5;c570b052645834a1109b54421c1552f9",
     "style": {"type": "rect","ratio":1.33},
     "api": "csp_XBPQ",
     "ext": {
@@ -120,26 +120,22 @@
       "quickSearch": 1
     },
     {
-      "key": "698hsck.cc",
-      "name": "仓库",
-      "type": 3,
-      "jar": "./js/5.jar;md5;c570b052645834a1109b54421c1552f9",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "playerType": "2",
-      "style": {"type": "rect","ratio":1.33},
-      "api": "csp_XBPQ",
-      "ext": {
-        "站名": "仓库",
-        "主页url": "http://698hsck.cc/",
-        "数组": "数组": "class=\"stui-vodlist__box\"&&</a",
-        "图片": "src=\"&&\"",
-        "链接": "href=\"&&\"",
-        "标题": "class=\"title\">&&</a>",
-        "分类url": "http://698hsck.cc/vodtype/{cateId}-{catePg}.html",
-        "分类": "日韩$1#国产系列$2#欧美$3#成人动漫$4"
-      }
+    "key": "698hsck.cc",
+    "name": "仓库",
+    "type": 3,
+    "jar": "./js/5.jar;md5;c570b052645834a1109b54421c1552f9",
+    "style": {"type": "rect","ratio":1.33},
+    "api": "csp_XBPQ",
+    "ext": {
+    "站名": "仓库",
+    "主页url": "http://698hsck.cc",
+    "数组": "<div class=\"stui-vodlist__box\">&&</a",
+    "链接": "href=\"&&\"",
+    "图片": "data-original=\"&&\"",
+    "标题": "title=\"&&\"",
+    "副标题": "<span class=\"pic-text text-right\">&&</span>",
+    "分类url": "http://698hsck.cc/vodtype/{cateId}-{catePg}.html",
+    "分类": "日韩$1#国产系列$2#欧美$3#成人动漫$4"}
     },
     {
       "key": "Jable",
