@@ -12,6 +12,14 @@
       "filterable": 0 
     },
     {
+      "key":"*老鸭资源",
+      "name":"*老鸭资源",
+      "type":1,
+      "api":"https://api.apilyzy.com/api.php/provide/vod/",
+      "searchable":0,
+      "quickSearch":0
+    },
+    {
       "key":"香奶儿资源",
       "name":"香奶儿资源",
       "type":0,
