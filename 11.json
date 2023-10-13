@@ -20,6 +20,14 @@
       "quickSearch":0
     },
     {
+      "key":"*乐播资源",
+      "name":"*乐播资源",
+      "type":1,
+      "api":"https://lbapi9.com/api.php/provide/vod/",
+      "searchable":0,
+      "quickSearch":0
+    },
+    {
       "key":"香奶儿资源",
       "name":"香奶儿资源",
       "type":0,
