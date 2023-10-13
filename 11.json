@@ -12,6 +12,14 @@
       "filterable": 0 
     },
     {
+      "key":"*环亚资源",
+      "name":"*环亚资源",
+      "type":0,
+      "api":"http://wmcj8.com/inc/sapi.php",
+      "searchable":0,
+      "quickSearch":0
+    },
+    {
       "key":"*老鸭资源",
       "name":"*老鸭资源",
       "type":1,
@@ -24,6 +32,14 @@
       "name":"*乐播资源",
       "type":1,
       "api":"https://lbapi9.com/api.php/provide/vod/",
+      "searchable":0,
+      "quickSearch":0
+    },
+    {
+      "key":"*玖玖资源",
+      "name":"*玖玖资源",
+      "type":0,
+      "api":"http://99zywcj.com/inc/sapi.php?ac=videolist",
       "searchable":0,
       "quickSearch":0
     },
