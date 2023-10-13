@@ -1,5 +1,5 @@
 {
-  "spider": "http://tv.jukemf.com/tvbox/oppo/jar/oppo.jar;md5;5388d60fb0519fa359339c3252fa5e69",
+  "spider": "./fty.jar;md5;5388d60fb0519fa359339c3252fa5e69",
   "wallpaper": "https://api.yimian.xyz/img?type=wallpaper",
   "sites": [
     { 
