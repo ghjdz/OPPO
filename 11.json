@@ -12,6 +12,12 @@
       "filterable": 0 
     },
     {
+      "key": "cjzy_暴风资源",
+      "name": "🦄暴风┃资源",
+      "type": 0,
+      "api": "https://haopianapi.com/api.php/provide/vod/at/xml",
+    },
+    {
       "key": "?花椒资源",
       "name": "花椒资源",
       "type": 1,
