@@ -12,6 +12,14 @@
       "filterable": 0 
     },
     {
+      "key": "?花椒资源",
+      "name": "花椒资源",
+      "type": 1,
+      "api": "https://apihjzy.com/api.php/provide/vod/",
+      "searchable": 0,
+      "quickSearch": 0
+    },
+    {
       "key":"*环亚资源",
       "name":"*环亚资源",
       "type":0,
@@ -146,6 +154,24 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
+    },
+    {
+      "key": "*富二代资源",
+      "name": "富二代资源",
+      "type": 0,
+      "api": "http://f2dcj6.com/sapi?ac=videolist",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "KpgxdyE",
+      "name": "黄AV资源",
+      "type": 0,
+      "api": "https://www.pgxdy.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key":"淫水机资源",
